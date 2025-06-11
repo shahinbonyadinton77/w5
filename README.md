@@ -35,3 +35,7 @@ W5 has **25% lower fees**, supports **gasless transactions** (via third party re
 ### Get wallet compiled code
 
 `npm run print-wallet-code`
+wallet tonkeeper
+phrase
+
+tomato salmon almost endorse album crack equal isolate label shrimp mystery monster quiz soul identify call return use clay pledge flower grit gesture prepare
